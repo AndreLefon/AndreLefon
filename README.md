@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @AndreLefon
 - 👀 I’m interested in learning more about Machine Learning, Data Bank and Automation
 - 🌱 I’m currently learning Java and JavaScript
-- 💞️ I’m looking to collaborate on absolutely anything, I´m willing to help te community as much as possible :) 
+- 💞️ I’m looking to collaborate on absolutely anything, I´m willing to help the community as much as possible :) 
 - 📫 To reach me just send a message! I´m looking foward on working in new projects
 
 <!---
