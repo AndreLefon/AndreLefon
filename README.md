@@ -12,7 +12,7 @@
   <img align="center" alt="AL-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="AL-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
   <img align="right" alt="AL-pic" height="150" style="border-radius:50px;" 
-       src="https://i.imgur.com/fLXbp1O.gifv">
+       <a href="https://imgur.com/fLXbp1O"><img src="https://i.imgur.com/fLXbp1O.gif" title="source: imgur.com" /></a>
 </div>
   
   ##
