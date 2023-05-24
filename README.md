@@ -1,8 +1,10 @@
 ## Alô você! Eu sou o André Lefon, profissional e estudante de programação e tecnologia!
+##
+
 <div align="center">
-  <a href="https://github.com/AndreLefon">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=AndreLefon&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AndreLefon&layout=compact&langs_count=7&theme=dracula"/>
+ ![AndreLefon's Stats](https://github-readme-stats.vercel.app/api?username=AndreLefon&theme=dracula&show_icons=true&hide_border=false&count_private=true)
+ ![AndreLefon's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AndreLefon&theme=dracula&show_icons=true&hide_border=false&layout=compact)
+ ![AndreLefon's Streak](https://github-readme-streak-stats.herokuapp.com/?user=AndreLefon&theme=dracula&hide_border=false)
 </div>
 <div style="display: inline_block"><br>
   <img align="center" alt="AL-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
