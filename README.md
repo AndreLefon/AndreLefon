@@ -1,4 +1,4 @@
-<h1 align="center">Alô Você! André Lefon</h1>
+<h1 align="center">Alô Você! Eu sou o André Lefon :)</h1>
 <h3 align="center">Profissional e estudante de programação e tecnologia!</h3>
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=andrelefon&label=Profile%20views&color=0e75b6&style=flat" alt="andrelefon" /> </p>
